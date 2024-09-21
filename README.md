@@ -5,41 +5,25 @@
 - **Specializations:** Data Analysis, Data Visualization, Quantitative Analysis, Statistical Analysis, Deep Learning, Machine Learning
 
 ## Education
-
-### Esade Business & Law School, Ramon Llull University, Barcelona, Spain
-- **Master of Science in Business Analytics** (09/2023 - 10/2024)
-  - Received the MSc Scholarship for Excellence - The European Talent
-
-### Free University of Tbilisi, Tbilisi, Georgia
-- **Bachelor of Business Administration - Finance** (09/2015 - 08/2019)
-  - Honored with a full scholarship from the Georgian government for outstanding academic achievement
-  - Graduated as class Salutatorian
+- **MSc in Business Analytics | Esade Business & Law School, Ramon Llull University** (_September 2023 - October 2024_)
+- **BBA in Finance | Free University of Tbilisi** (_September 2015 - August 2019_)
 
 ## Professional Experience
-
-### Galt and Taggart, Tbilisi, Georgia
-
-#### Research Associate (01/2023 - 06/2023)
+**Research Associate @ Galt and Taggart** (_January 2023 - June 2023_)
 - Provided data-driven insights and consultation on 5+ projects to advisory and portfolio management teams.
 - Mentored two junior analysts, enhancing their skills in data collection, statistical analysis, and report generation.
 - Led training sessions on data visualization techniques and presentation skills for a team of ten researchers.
 
-#### Senior Research Analyst (04/2021 - 12/2022)
-- Conducted over ten market studies in sectors such as healthcare, e-commerce, agriculture, retail, and manufacturing.
+**Senior Research Analyst @ Galt and Taggart** (_April 2021 - December 2022_)
+- Conducted over ten market studies in healthcare, e-commerce, agriculture, retail, and manufacturing sectors.
 - Communicated study findings at conferences, webinars, and through over 30 media interviews.
 - Prepared over 20 presentations, feasibility studies, and custom research reports influencing strategic decisions for clients across diverse industries.
 
-#### Research Analyst (01/2019 - 03/2021)
+**Research Analyst @ Galt and Taggart** (_January 2019 - March 2021_)
 - Published studies on healthcare and education sectors, the latter being the first coverage of the sector in Georgia.
 - Executed market analyses for over 5 feasibility studies and custom research reports delivering actionable insights.
 - Collected, organized, and analyzed datasets in three diverse sectors.
 
-### Bank of Georgia Group PLC, Tbilisi, Georgia
-
-#### Intern - Rotational Graduate Program (03/2018 - 12/2018)
-- Carried out audit processes for around 10 SME companies in the Risk Analysis department.
-- Executed financial due diligence for credit approval of 3 corporate clients in the Corporate Banking department.
-- Analyzed competitive landscapes for company valuation and completed two company teasers for the Investment Banking department.
 
 ## Projects
 
