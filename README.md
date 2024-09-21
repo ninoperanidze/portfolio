@@ -5,8 +5,8 @@
 - **Specializations:** Data Analysis, Data Visualization, Quantitative Analysis, Statistical Analysis, Deep Learning, Machine Learning
 
 ## Education
-- **MSc in Business Analytics | Esade Business & Law School, Ramon Llull University** (_September 2023 - October 2024_)
-- **BBA in Finance | Free University of Tbilisi** (_September 2015 - August 2019_)
+- **MSc in Business Analytics | Esade Business & Law School, Ramon Llull University** (_October 2024_)
+- **BBA in Finance | Free University of Tbilisi** (_August 2019_)
 
 ## Professional Experience
 **Research Associate @ Galt and Taggart** (_January 2023 - June 2023_)
