@@ -24,7 +24,6 @@
 - Executed market analyses for over 5 feasibility studies and custom research reports delivering actionable insights.
 - Collected, organized, and analyzed datasets in three diverse sectors.
 
-
 ## Projects
 
 ### Predictive Model for Real Estate Prices in Georgia (July 2024 - Present)
