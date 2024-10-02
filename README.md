@@ -26,11 +26,11 @@
 
 ## Projects
 
-### Predictive Model for Real Estate Prices in Georgia (July 2024 - Present)
+### Predictive Model for Real Estate Prices in Georgia (_July 2024 - October 2024_) 
 - Leading the data collection, cleaning, and preparation processes to ensure high-quality data for model training.
 - Designed and developed a predictive machine learning model to forecast real estate prices in Georgia.
 - Developed an easy-to-use web application using Flask.
 
-### Capstone Project - AI Structured Databases Analysis (February 2024 - July 2024)
+### Capstone Project - AI Structured Databases Analysis (_February 2024 - July 2024_)
 - Conducted comprehensive research on the best practices in data governance for both structured and unstructured databases.
 
