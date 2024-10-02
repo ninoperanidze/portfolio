@@ -5,8 +5,8 @@
 - **Specializations:** Data Analysis, Data Visualization, Quantitative Analysis, Statistical Analysis, Deep Learning, Machine Learning
 
 ## Education
-- **MSc in Business Analytics | Esade Business & Law School, Ramon Llull University** (_October 2024_)
-- **BBA in Finance | Free University of Tbilisi** (_August 2019_)
+- **MSc in Business Analytics** | Esade Business & Law School, Ramon Llull University (_October 2024_)
+- **BBA in Finance** | Free University of Tbilisi (_August 2019_)
 
 ## Professional Experience
 **Research Associate @ Galt and Taggart** (_January 2023 - June 2023_)
@@ -29,7 +29,8 @@
 
 ### Predictive Model for Real Estate Prices in Georgia (July 2024 - Present)
 - Leading the data collection, cleaning, and preparation processes to ensure high-quality data for model training.
-- Currently designing and developing a predictive machine learning model to forecast real estate prices in Georgia.
+- Designed and developed a predictive machine learning model to forecast real estate prices in Georgia.
+- Developed an easy-to-use web application using Flask.
 
 ### Capstone Project - AI Structured Databases Analysis (February 2024 - July 2024)
 - Conducted comprehensive research on the best practices in data governance for both structured and unstructured databases.
