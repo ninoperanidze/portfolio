@@ -26,11 +26,16 @@
 
 ## Projects
 
-**Predictive Model for Real Estate Prices in Georgia @ Galt and Taggart** (_July 2024 - October 2024_) 
+**E-commerce sector in Georgia**
+[Publication](https://api.galtandtaggart.com/sites/default/files/2021-07/report/e-commerce-in-georgia_july-2021_eng.pdf)
+
+The project aimed to conduct the first comprehensive analysis of the e-commerce sector in the country, shedding light on its size, growth dynamics, and potential opportunities. By delving into various sub-sectors within e-commerce, we provide valuable insights into their individual trajectories and overall market landscape. Additionally, our research delved into the drivers propelling e-commerce growth and provided a future outlook for the sector, offering strategic guidance for stakeholders.
+
+**Predictive Model for Real Estate Prices in Georgia @ Galt and Taggart** 
 - Led the data collection, cleaning, and preparation processes to ensure high-quality data for model training.
 - Designed and developed a predictive machine learning model to forecast real estate prices in Georgia.
 - Developed an easy-to-use web application using Flask.
 
-**Capstone Project - AI Structured Databases Analysis @ Bank Sabadell** (_February 2024 - July 2024_)
+**Capstone Project - AI Structured Databases Analysis @ Bank Sabadell**
 - Conducted comprehensive research on the best practices in data governance for both structured and unstructured databases.
 
