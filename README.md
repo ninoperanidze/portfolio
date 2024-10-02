@@ -26,6 +26,11 @@
 
 ## Projects
 
+**Predictive Model for Real Estate Prices in Georgia** 
+- Led the data collection, cleaning, and preparation processes to ensure high-quality data for model training.
+- Designed and developed a predictive machine learning model to forecast real estate prices in Georgia.
+- Developed an easy-to-use web application using Flask.
+
 **E-commerce sector in Georgia**
 [Publication](https://api.galtandtaggart.com/sites/default/files/2021-07/report/e-commerce-in-georgia_july-2021_eng.pdf)
 
@@ -41,10 +46,6 @@ The primary objective of the project was to provide the first-ever comprehensive
 
 The project sought to provide a thorough examination of the healthcare sector in Georgia, analyzing the local healthcare system, expenditures, infrastructure, human resources, and efficiency metrics. Moreover, given the unprecedented challenges posed by the COVID-19 pandemic, our analysis also focused on assessing the system's readiness to tackle the crises, evaluating resource availability, and analyzing their efficient utilization.
 
-**Predictive Model for Real Estate Prices in Georgia @ Galt and Taggart** 
-- Led the data collection, cleaning, and preparation processes to ensure high-quality data for model training.
-- Designed and developed a predictive machine learning model to forecast real estate prices in Georgia.
-- Developed an easy-to-use web application using Flask.
 
 **Capstone Project - AI Structured Databases Analysis @ Bank Sabadell**
 - Conducted comprehensive research on the best practices in data governance for both structured and unstructured databases.
