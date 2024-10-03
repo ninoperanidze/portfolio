@@ -5,8 +5,8 @@
 - **Specializations:** Data Analysis, Data Visualization, Quantitative Analysis, Statistical Analysis, Deep Learning, Machine Learning
 
 ## Education
-- **MSc in Business Analytics** | Esade Business & Law School, Ramon Llull University (_October 2024_)
-- **BBA in Finance** | Free University of Tbilisi (_August 2019_)
+- **MSc in Business Analytics** Esade Business & Law School, Ramon Llull University (_October 2024_)
+- **BBA in Finance** Free University of Tbilisi (_August 2019_)
 
 ## Professional Experience
 **Research Associate @ Galt and Taggart** (_January 2023 - June 2023_)
@@ -34,19 +34,19 @@
 **E-commerce sector in Georgia**
 [Publication](https://api.galtandtaggart.com/sites/default/files/2021-07/report/e-commerce-in-georgia_july-2021_eng.pdf)
 
-The project aimed to conduct the first comprehensive analysis of the e-commerce sector in the country, shedding light on its size, growth dynamics, and potential opportunities. By delving into various sub-sectors within e-commerce, we provide valuable insights into their individual trajectories and overall market landscape. Additionally, our research delved into the drivers propelling e-commerce growth and provided a future outlook for the sector, offering strategic guidance for stakeholders.
+Conducted the first comprehensive analysis of the e-commerce sector in the country, shedding light on its size, growth dynamics, and potential opportunities. By delving into various sub-sectors within e-commerce, the study provides valuable insights into their individual trajectories and overall market landscape. Additionally, the research delved into the drivers propelling e-commerce growth and provided a future outlook for the sector, offering strategic guidance for stakeholders.
 
 **Education sector in Georgia**
 [Publication](https://api.galtandtaggart.com/sites/default/files/2021-05/25610.pdf)
 
-The primary objective of the project was to provide the first-ever comprehensive coverage of the education sector in Georgia. We aimed to uncover the complexities of the sector, showing its strengths and areas for improvement on each education level. By examining labor market trends alongside educational outcomes, our goal was to identify the gap between education and employment.
+The project provided the first-ever comprehensive coverage of the education sector in Georgia. The study aimed to uncover the complexities of the sector, showing its strengths and areas for improvement on each education level. By examining labor market trends alongside educational outcomes, the goal was to identify the gap between education and employment.
 
 **Healthcare sector overview**
 [Publication](https://api.galtandtaggart.com/sites/default/files/2021-05/18868.pdf)
 
-The project sought to provide a thorough examination of the healthcare sector in Georgia, analyzing the local healthcare system, expenditures, infrastructure, human resources, and efficiency metrics. Moreover, given the unprecedented challenges posed by the COVID-19 pandemic, our analysis also focused on assessing the system's readiness to tackle the crises, evaluating resource availability, and analyzing their efficient utilization.
+The study provided a thorough examination of the healthcare sector in Georgia, analyzing the local healthcare system, expenditures, infrastructure, human resources, and efficiency metrics. Moreover, given the unprecedented challenges posed by the COVID-19 pandemic, the analysis also focused on assessing the system's readiness to tackle the crises, evaluating resource availability, and analyzing their efficient utilization.
 
 
 **Capstone Project - AI Structured Databases Analysis @ Bank Sabadell**
-- Conducted comprehensive research on the best practices in data governance for both structured and unstructured databases.
+Conducted comprehensive research on the best practices in data governance for both structured and unstructured databases.
 
