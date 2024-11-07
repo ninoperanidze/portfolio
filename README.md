@@ -32,6 +32,16 @@
 - Designed and developed a predictive machine learning model to forecast real estate prices in Georgia.
 - Developed an easy-to-use web application using Flask.
 
+
+**Predictive Model for Customer Churn** 
+[GitHub Repository](https://github.com/ninoperanidze/Churn-Prediction-App)
+- Led the data cleaning and preparation processes for model training.
+- Designed and developed a predictive machine learning model to forecast if a customer will churn.
+- Developed a Streamlit application that allows users to input customer data and predicts whether a customer is likely to leave or stay.
+
+
+## Publications
+
 **E-commerce sector in Georgia**
 [Publication](https://api.galtandtaggart.com/sites/default/files/2021-07/report/e-commerce-in-georgia_july-2021_eng.pdf)
 
@@ -42,18 +52,8 @@ Conducted the first comprehensive analysis of the e-commerce sector in the count
 
 The project provided the first-ever comprehensive coverage of the education sector in Georgia. The study aimed to uncover the complexities of the sector, showing its strengths and areas for improvement on each education level. By examining labor market trends alongside educational outcomes, the goal was to identify the gap between education and employment.
 
-**Predictive Model for Customer Churn** 
-[GitHub Repository](https://github.com/ninoperanidze/Churn-Prediction-App)
-- Led the data cleaning and preparation processes for model training.
-- Designed and developed a predictive machine learning model to forecast if a customer will churn.
-- Developed a Streamlit application that allows users to input customer data and predicts whether a customer is likely to leave or stay.
-
 **Healthcare sector overview**
 [Publication](https://api.galtandtaggart.com/sites/default/files/2021-05/18868.pdf)
 
 The study provided a thorough examination of the healthcare sector in Georgia, analyzing the local healthcare system, expenditures, infrastructure, human resources, and efficiency metrics. Moreover, given the unprecedented challenges posed by the COVID-19 pandemic, the analysis also focused on assessing the system's readiness to tackle the crises, evaluating resource availability, and analyzing their efficient utilization.
-
-
-**Capstone Project - AI Structured Databases Analysis @ Bank Sabadell**
-Conducted comprehensive research on the best practices in data governance for both structured and unstructured databases.
 
