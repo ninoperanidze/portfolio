@@ -42,6 +42,12 @@ Conducted the first comprehensive analysis of the e-commerce sector in the count
 
 The project provided the first-ever comprehensive coverage of the education sector in Georgia. The study aimed to uncover the complexities of the sector, showing its strengths and areas for improvement on each education level. By examining labor market trends alongside educational outcomes, the goal was to identify the gap between education and employment.
 
+**Predictive Model for Customer Churn** 
+[GitHub Repository](https://github.com/ninoperanidze/Churn-Prediction-App)
+- Led the data cleaning and preparation processes for model training.
+- Designed and developed a predictive machine learning model to forecast if a customer will churn.
+- Developed a Streamlit application that allows users to input customer data and predicts whether a customer is likely to leave or stay.
+
 **Healthcare sector overview**
 [Publication](https://api.galtandtaggart.com/sites/default/files/2021-05/18868.pdf)
 
