@@ -26,8 +26,7 @@
 
 ## Projects
 
-**Predictive Model for Real Estate Prices in Georgia** 
-[GitHub Repository](https://github.com/ninoperanidze/Predicting-real-estate-prices)
+[Predictive Model for Real Estate Prices in Georgia](https://github.com/ninoperanidze/Predicting-real-estate-prices)
 - Led the data collection, cleaning, and preparation processes to ensure high-quality data for model training.
 - Designed and developed a predictive machine learning model to forecast real estate prices in Georgia.
 - Developed an easy-to-use web application using Flask.
