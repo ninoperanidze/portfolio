@@ -49,7 +49,7 @@ The PoC Dashboard was developed using Streamlit to provide a dynamic and interac
 **E-commerce sales dashboard**
 [GitHub Repository](https://github.com/ninoperanidze/E-commerce-dashboard)
 
-This project focuses on analyzing e-commerce sales data to create a comprehensive dashboard. The goal is to provide an insightful overview of sales, profit, and quantity sold, segmented by year and region. The dashboard further categorizes these metrics by customer segment and product category to highlight general trends in the data.
+This project focuses on analyzing e-commerce sales data to create a comprehensive dashboard in Power BI. The goal was to provide an insightful overview of sales, profit, and quantity sold, segmented by year and region. The dashboard further categorizes these metrics by customer segment and product category to highlight general trends in the data. The dashboard also provides detailed analysis of sales and profit margins by product subcategory and customer segment.
 
 
 ## Publications
