@@ -24,7 +24,7 @@
 - Executed market analyses for over 5 feasibility studies and custom research reports delivering actionable insights.
 - Collected, organized, and analyzed datasets in three diverse sectors.
 
-## Projects
+## Machine Learning models
 
 **Predictive Model for Real Estate Prices in Georgia**
 [GitHub Repository](https://github.com/ninoperanidze/Predicting-real-estate-prices)
@@ -38,6 +38,16 @@
 - Led the data cleaning and preparation processes for model training.
 - Designed and developed a predictive machine learning model to forecast if a customer will churn.
 - Developed a Streamlit application that allows users to input customer data and predicts whether a customer is likely to leave or stay.
+
+## Dashboards
+
+**PoC dashboard for surveys in various sectors**
+[GitHub Repository](https://github.com/ninoperanidze/PoC_Dashboard)
+The PoC Dashboard was developed using Streamlit to provide a dynamic and interactive platform for visualizing and analyzing performance metrics for different surveys. The goal was to create a template dashboard that effectively visualizes survey data and can be easily applied for multiple industries. The dashboard focuses on displaying initially high level data, and giving the user the option to intuitively segment their data, making complex data easily understandable.
+
+**E-commerce Sales Dashboard**
+[GitHub Repository](https://github.com/ninoperanidze/E-commerce-dashboard)
+This project focuses on analyzing e-commerce sales data to create a comprehensive dashboard. The goal is to provide an insightful overview of sales, profit, and quantity sold, segmented by year and region. The dashboard further categorizes these metrics by customer segment and product category to highlight general trends in the data.
 
 
 ## Publications
