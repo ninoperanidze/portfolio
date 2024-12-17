@@ -8,7 +8,8 @@
 - **MSc in Business Analytics** Esade Business & Law School, Ramon Llull University (_October 2024_)
 - **BBA in Finance** Free University of Tbilisi (_August 2019_)
 
-## Projects
+
+# Projects
 
 ## Machine Learning models
 
