@@ -8,21 +8,7 @@
 - **MSc in Business Analytics** Esade Business & Law School, Ramon Llull University (_October 2024_)
 - **BBA in Finance** Free University of Tbilisi (_August 2019_)
 
-## Professional Experience
-**Research Associate @ Galt and Taggart** (_January 2023 - June 2023_)
-- Provided data-driven insights and consultation on 5+ projects to advisory and portfolio management teams.
-- Mentored two junior analysts, enhancing their skills in data collection, statistical analysis, and report generation.
-- Led training sessions on data visualization techniques and presentation skills for a team of ten researchers.
-
-**Senior Research Analyst @ Galt and Taggart** (_April 2021 - December 2022_)
-- Conducted over ten market studies in healthcare, e-commerce, agriculture, retail, and manufacturing sectors.
-- Communicated study findings at conferences, webinars, and through over 30 media interviews.
-- Prepared over 20 presentations, feasibility studies, and custom research reports influencing strategic decisions for clients across diverse industries.
-
-**Research Analyst @ Galt and Taggart** (_January 2019 - March 2021_)
-- Published studies on healthcare and education sectors, the latter being the first coverage of the sector in Georgia.
-- Executed market analyses for over 5 feasibility studies and custom research reports delivering actionable insights.
-- Collected, organized, and analyzed datasets in three diverse sectors.
+## Projects
 
 ## Machine Learning models
 
@@ -69,4 +55,20 @@ The project provided the first-ever comprehensive coverage of the education sect
 [Publication](https://api.galtandtaggart.com/sites/default/files/2021-05/18868.pdf)
 
 The study provided a thorough examination of the healthcare sector in Georgia, analyzing the local healthcare system, expenditures, infrastructure, human resources, and efficiency metrics. Moreover, given the unprecedented challenges posed by the COVID-19 pandemic, the analysis also focused on assessing the system's readiness to tackle the crises, evaluating resource availability, and analyzing their efficient utilization.
+
+## Professional Experience
+**Research Associate @ Galt and Taggart** (_January 2023 - June 2023_)
+- Provided data-driven insights and consultation on 5+ projects to advisory and portfolio management teams.
+- Mentored two junior analysts, enhancing their skills in data collection, statistical analysis, and report generation.
+- Led training sessions on data visualization techniques and presentation skills for a team of ten researchers.
+
+**Senior Research Analyst @ Galt and Taggart** (_April 2021 - December 2022_)
+- Conducted over ten market studies in healthcare, e-commerce, agriculture, retail, and manufacturing sectors.
+- Communicated study findings at conferences, webinars, and through over 30 media interviews.
+- Prepared over 20 presentations, feasibility studies, and custom research reports influencing strategic decisions for clients across diverse industries.
+
+**Research Analyst @ Galt and Taggart** (_January 2019 - March 2021_)
+- Published studies on healthcare and education sectors, the latter being the first coverage of the sector in Georgia.
+- Executed market analyses for over 5 feasibility studies and custom research reports delivering actionable insights.
+- Collected, organized, and analyzed datasets in three diverse sectors.
 
