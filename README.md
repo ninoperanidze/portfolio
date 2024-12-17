@@ -58,6 +58,12 @@ The project provided the first-ever comprehensive coverage of the education sect
 The study provided a thorough examination of the healthcare sector in Georgia, analyzing the local healthcare system, expenditures, infrastructure, human resources, and efficiency metrics. Moreover, given the unprecedented challenges posed by the COVID-19 pandemic, the analysis also focused on assessing the system's readiness to tackle the crises, evaluating resource availability, and analyzing their efficient utilization.
 
 ## Professional Experience
+
+**Freelance Data Analyst @ Upwork** (_October 2024 - Present_)
+- Maintained 100% success rate on Upwork by delivering high-quality, impactful results
+- Specialized in data analysis and visualization, developing interactive dashboards and comprehensive reports, and conducting market analysis to inform strategic decisions
+- Collaborated with clients globally, delivering solutions tailored to their business needs
+
 **Research Associate @ Galt and Taggart** (_January 2023 - June 2023_)
 - Provided data-driven insights and consultation on 5+ projects to advisory and portfolio management teams.
 - Mentored two junior analysts, enhancing their skills in data collection, statistical analysis, and report generation.
