@@ -35,10 +35,13 @@ The PoC Dashboard was developed using Streamlit to provide a dynamic and interac
 
 **E-commerce sales dashboard**
 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWNmMDkwYzktMmFkZS00NzI4LTk5YjktNTZhY2YwNmJhYjRmIiwidCI6ImRhNzA4NmQzLTliNDktNGQyOC05OWJkLWM0NzY3YjIxMDFjYSIsImMiOjEwfQ%3D%3D)
-[GitHub Repository](https://github.com/ninoperanidze/E-commerce-dashboard)
 
 This project focuses on analyzing e-commerce sales data to create a comprehensive dashboard in Power BI. The goal was to provide an insightful overview of sales, profit, and quantity sold, segmented by year and region. The dashboard further categorizes these metrics by customer segment and product category to highlight general trends in the data. The dashboard also provides detailed analysis of sales and profit margins by product subcategory and customer segment.
 
+**Medical equipment sales dashboard**
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWE4ODUxYjItMzg1Ni00OWRlLWIxZmQtM2QyNjY0N2MyZGIwIiwidCI6ImRhNzA4NmQzLTliNDktNGQyOC05OWJkLWM0NzY3YjIxMDFjYSIsImMiOjEwfQ%3D%3D)
+
+The dashboard provides a comprehensive analysis of sales trends and performance metrics for medical equipment across different dimensions of the business. The goal is to enable stakeholders to monitor sales activities, optimize sales strategies, and enhance overall performance by identifying key trends and areas for improvement.
 
 ## Publications
 
